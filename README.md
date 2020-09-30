@@ -1,4 +1,4 @@
-# UdacityBirthdayCard
+# UdacityBirthdayCardUsing.xml
 This app is made as first project of Android Basics beginner course
 Aim was to create an birthday card
 
