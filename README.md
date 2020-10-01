@@ -1,5 +1,5 @@
 # UdacityBirthdayCard
-This app is made as first project of Android Basics beginner course
+This app is made as first project of android basics beginner course
 Aim was to create an birthday card
 
 ![Screenshot1](https://github.com/ritika-neema/UdacityBirthdayCard/blob/master/BirthdayCardRitika1.jpeg)
