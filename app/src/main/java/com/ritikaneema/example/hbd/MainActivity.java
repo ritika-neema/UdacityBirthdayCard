@@ -1,6 +1,6 @@
 package com.ritikaneema.example.hbd;
 
-import android.support.v7.app.AppCompatActivity;
+// import android.support.v7.app.AppCompatActivity; //since v7 is not working now so we have to import this
 import androidx.appcompat.app.AppCompatActivity; //since v7 is not working now so we have to import this
 import android.os.Bundle;
 import android.view.WindowManager;
